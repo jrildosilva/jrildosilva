@@ -1,7 +1,7 @@
 - 👋 oi, eu sou Rildo
 - 👀 Venho da àrea de logistíca e estou em transição de carreira 
 - 🌱 Atualmente estudando React, firebase, typescript.  
-- 💞️ Querendo colaborar com desenvolvimento de app para facilitar a vida das pessoas
+- 💞️ Querendo colaborar com desenvolvimento de sistemas para facilitar a vida das pessoas
 - 📫 Como entrar em contato: github.com/jrildosilva; linkedin.com/in/jrrildo ; jrsrildo44@gmail.com
 
 <!---
