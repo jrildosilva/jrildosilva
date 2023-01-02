@@ -1,10 +1,20 @@
-- 👋 oi, eu sou Rildo
-- 👀 Venho da àrea de logistíca e estou em transição de carreira 
-- 🌱 Atualmente estudando React, firebase, typescript.  
-- 💞️ Querendo colaborar com desenvolvimento de sistemas para facilitar a vida das pessoas
-- 📫 Como entrar em contato: github.com/jrildosilva; linkedin.com/in/jrrildo ; jrsrildo44@gmail.com
+### Hi there, I´m Rildo
 
-<!---
-jrildosilva/jrildosilva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+#### About
+I´m a web professional in transition. And, I´m stundyng programming at [Rocketseat](https://potenciatech.rocketseat.com.br/).
+
+
+#### Current stack
+- ⚡️Main language: `Javascript`
+- 📡Backend: `Nodejs`
+- 🎉Frontend: `Reactjs`, `Javascript`, `HTML5`, `CSS3`, 
+- 🎨Layout design: `Figma`
+- 📦️Version code control: `Git & GitHub`
+- 🔨Tools: `VsCode`
+
+#### Contacts 
+
+- 📧Email: jrsrildo44@gmail.com
+- 🧑‍💻Linkedin: [linkedin.com/in/jrrildo](https://www.linkedin.com/in/jrrildo/?originalSubdomain=br)
+
